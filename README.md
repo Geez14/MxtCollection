@@ -137,6 +137,10 @@ Thank you to all our backers! 🙏
 
 Support this project by becoming a sponsor. Your logo will show up here with a link to your website.
 
+# Steps to setup project
+** need to clone the first commit**
+*  
+
 <div>
     <a href="https://opencollective.com/bagisto/contribute/sponsor-7372/checkout" target="_blank">
         <img src="https://images.opencollective.com/static/images/become_sponsor.svg">
